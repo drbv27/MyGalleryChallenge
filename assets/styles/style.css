@@ -1,0 +1,46 @@
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29.26px;
+}
+
+h5, .dwnt {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17.07px;
+}
+
+h5 {
+    color: #a9a9a9;
+}
+
+.dwnt {
+    color:#bdbdbd
+}
+
+.upt {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21.94px;
+    color: black;
+}
+
+footer {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17.907px;
+    color:#b9bdcf;
+}
+
+footer p .link {
+    font-weight: 700;
+    color:#b9bdcf; 
+}
