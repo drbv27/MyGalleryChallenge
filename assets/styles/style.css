@@ -44,3 +44,9 @@ footer p .link {
     font-weight: 700;
     color:#b9bdcf; 
 }
+
+@include media-breakpoint-up(sm) {
+    h1 {
+      font-size: 1.2rem;
+    }
+  }
