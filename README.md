@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://epic-swirles-3df505.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -34,32 +34,32 @@
 
 ## Overview
 
-![screenshot](https://github.com/drbv27/MyTeamPageChallenge/blob/main/assets/img/computer.png)
-![screenshot](https://github.com/drbv27/MyTeamPageChallenge/blob/main/assets/img/mobile.png)
+![screenshot](https://github.com/drbv27/MyGalleryChallenge/blob/main/assets/img/full.png)
+![screenshot](https://github.com/drbv27/MyGalleryChallenge/blob/main/assets/img/mobile.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-  The site demo it's [here](https://cocky-feynman-63f778.netlify.app/)
+  The site demo it's [here](https://epic-swirles-3df505.netlify.app/)
 
 - What was your experience?
-Initially I tried to do it with CSS Flexbox and was a really disaster, after i decided to use CSS Grid, specifically Grid Areas.
+Initially I tried to do it with CSS Flexbox and was a really disaster, finally i use Bootstrap grid.
 
 - What have you learned/improved?
-CSS, Grid,Grid Area, MediaQueries
+Bootstrap 4.6 CSS, Grid,Grid Area, MediaQueries
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- HTML & CSS (Grid and Media Q.)
+- Bootstrap 4.6 HTML & CSS (Grid and Media Q.)
 - Deployed with [Netlify](https://www.netlify.com/)
 
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I) was to build an application to complete the given user stories.
 
 ## Acknowledgements
 
