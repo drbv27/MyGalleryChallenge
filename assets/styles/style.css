@@ -10,8 +10,8 @@
     font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: 600;
-    font-size: 14px;
-    line-height: 17.07px;
+    font-size: 10px;
+    line-height: 12.19px;
 }
 
 .subhead {
@@ -26,8 +26,8 @@
     font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: 600;
-    font-size: 18px;
-    line-height: 21.94px;
+    font-size: 12px;
+    line-height: 14.63px;
     color: black;
 }
 
@@ -45,18 +45,25 @@ footer p .link {
     color:#b9bdcf; 
 }
 
-Bootstrap 4 breakpoints
-*/
-/* Small devices (landscape phones, 544px and up) */
-@media (min-width: 544px) {  
-  h1 {font-size:1.5rem;} /*1rem = 16px*/
-}
+/* Bootstrap 4 breakpoints */
+
  
 /* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
 @media (min-width: 768px) {  
     .head {
         font-size: 19px;
         line-height: 23px;
+    }
+
+    .subhead, .dwnt {
+        font-size: 12px;
+        line-height: 14.5px;
+    }
+
+    .upt {
+        font-size: 15px;
+        line-height: 18px;
+        color: black;
     }
 }
  
@@ -65,6 +72,17 @@ Bootstrap 4 breakpoints
     .head {
         font-size: 24px;
         line-height: 29.26px;
+    }
+
+    .subhead, .dwnt {
+        font-size: 14px;
+        line-height: 17.07px;
+    }
+
+    .upt {
+        font-size: 18px;
+        line-height: 21.94px;
+        color: black;
     }
 }
  
