@@ -1,4 +1,4 @@
-h1 {
+.head {
     font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: 600;
@@ -6,7 +6,7 @@ h1 {
     line-height: 29.26px;
 }
 
-h5, .dwnt {
+.subhead, .dwnt {
     font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: 600;
@@ -14,7 +14,7 @@ h5, .dwnt {
     line-height: 17.07px;
 }
 
-h5 {
+.subhead {
     color: #a9a9a9;
 }
 
@@ -45,8 +45,3 @@ footer p .link {
     color:#b9bdcf; 
 }
 
-@include media-breakpoint-up(sm) {
-    h1 {
-      font-size: 1.2rem;
-    }
-  }
